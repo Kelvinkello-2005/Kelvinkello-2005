@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kelvinkello-2005
-- 👀 I’m interested in python and html
+- 👀 I’m interested in python, kotlin, java, JavaScript, ruby, golang and perl
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate in web development, designing and hacking 
+- 💞️ I’m looking to collaborate in creating useful programs for cybersecurity and networking 
 - 📫 How to reach me is by my email address 
 
 <!---
